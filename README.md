@@ -1,1 +1,1 @@
-Hello from CONFLICT-BRANCH!
+This is the README from BRANCH.
